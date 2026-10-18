@@ -1,0 +1,21 @@
+[
+    {
+        "name": "lanehash",
+        "path": "dist/index.js",
+        "limit": "2.8 kB",
+        "gzip": true
+    },
+    {
+        "name": "lanehash (cjs)",
+        "path": "dist/index.cjs",
+        "limit": "2.9 kB",
+        "gzip": true
+    },
+    {
+        "name": "tree-shaking: { hash53 } only",
+        "path": "dist/index.js",
+        "import": "{ hash53 }",
+        "limit": "2.4 kB",
+        "gzip": true
+    }
+]

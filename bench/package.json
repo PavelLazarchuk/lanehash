@@ -1,0 +1,12 @@
+{
+    "name": "lanehash-bench",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+        "@node-rs/xxhash": "^1.7.8",
+        "js-xxhash": "^5.0.1",
+        "murmurhash": "^2.0.1",
+        "xxhash-wasm": "^1.1.0",
+        "xxhashjs": "^0.2.2"
+    }
+}
