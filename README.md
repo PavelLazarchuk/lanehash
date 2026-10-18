@@ -1,5 +1,8 @@
 # lanehash
 
+[![npm version](https://img.shields.io/npm/v/lanehash.svg)](https://www.npmjs.com/package/lanehash)
+[![npm downloads](https://img.shields.io/npm/dm/lanehash.svg)](https://www.npmjs.com/package/lanehash)
+
 A fast non-cryptographic 64-bit hash designed for JavaScript engines.
 
 ```ts
