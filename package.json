@@ -1,6 +1,6 @@
 {
     "name": "lanehash",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A fast non-cryptographic 64-bit hash designed for JavaScript engines: pure 32-bit integer math (no BigInt, no WebAssembly), strings hashed straight from UTF-16 without encoding, byte-identical results for strings and their UTF-16LE bytes, streaming, seeds, and 64/53/32-bit or hex output. For hash tables, sharding, cache keys and dedupe — not for security.",
     "license": "MIT",
     "sideEffects": false,
